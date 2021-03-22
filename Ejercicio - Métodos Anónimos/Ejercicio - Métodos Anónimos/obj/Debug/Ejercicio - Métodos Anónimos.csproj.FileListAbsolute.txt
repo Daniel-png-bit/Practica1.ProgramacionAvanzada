@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\bin\Debug\Ejercicio - Métodos Anónimos.exe.config
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\bin\Debug\Ejercicio - Métodos Anónimos.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\bin\Debug\Ejercicio - Métodos Anónimos.pdb
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\obj\Debug\Ejercicio - Métodos Anónimos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\obj\Debug\Ejercicio - Métodos Anónimos.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio - Métodos Anónimos\Ejercicio - Métodos Anónimos\obj\Debug\Ejercicio - Métodos Anónimos.pdb
