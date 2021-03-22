@@ -1,0 +1,35 @@
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.csprojAssemblyReference.cache
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfoInputs.cache
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfo.cs
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.exe
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.deps.json
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.json
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.dev.json
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
+E:\PROGRAMACION III\Ej2LamdbaString\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.deps.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.exe
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.deps.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\bin\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.dll
+C:\Users\Usuario\Desktop\Tareas\Universidad\3er Semestre\Programación 3\Práctica Uno\Ejercicio 2 - Lambda1\Ej2LamdbaString\obj\Debug\netcoreapp3.1\Ej2LamdbaString.pdb
